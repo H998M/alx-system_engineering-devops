@@ -1,2 +1,2 @@
-#!/bin/bash 
+#!/bin/bash
 ls -ltu1 | head -n 10
